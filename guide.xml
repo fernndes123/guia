@@ -44,8 +44,8 @@
     <display-name lang="pt">SPORTSTV  HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="SPORTSTV  SD ">
-    <display-name lang="pt">SPORTSTV  SD </display-name>
+  <channel id="SPORTSTV  SD">
+    <display-name lang="pt">SPORTSTV  SD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SPORTSTV2  HD">
@@ -72,253 +72,112 @@
     <display-name lang="pt">PREMIE CLUBE  SD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200830180000 -0300" stop="20200830210000 -0300" channel="ESPN BRASIL  HD">
+  <programme start="20200831210000 -0300" stop="20200831220000 -0300" channel="ESPN BRASIL  HD">
     <title lang="pt">Sportscenter - Ao Vivo</title>
   </programme>
-  <programme start="20200830210000 -0300" stop="20200830220000 -0300" channel="ESPN BRASIL  HD">
-    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="ESPN BRASIL  HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
   </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="ESPN BRASIL  HD">
-    <title lang="pt">Resenha de Casa: Ricardo Quaresma</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="ESPN BRASIL  HD">
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="ESPN BRASIL  HD">
     <title lang="pt">Sportscenter</title>
   </programme>
-  <programme start="20200830180000 -0300" stop="20200830210000 -0300" channel="ESPN BRASIL  SD">
+  <programme start="20200831210000 -0300" stop="20200831220000 -0300" channel="ESPN BRASIL  SD">
     <title lang="pt">Sportscenter - Ao Vivo</title>
   </programme>
-  <programme start="20200830210000 -0300" stop="20200830220000 -0300" channel="ESPN BRASIL  SD">
-    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="ESPN BRASIL  SD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
   </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="ESPN BRASIL  SD">
-    <title lang="pt">Resenha de Casa: Ricardo Quaresma</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="ESPN BRASIL  SD">
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="ESPN BRASIL  SD">
     <title lang="pt">Sportscenter</title>
   </programme>
-  <programme start="20200830163000 -0300" stop="20200830190000 -0300" channel="ESPN1  HD">
-    <title lang="pt">NBA: LA Clippers x Dallas Mavericks - Ao Vivo</title>
+  <programme start="20200831200000 -0300" stop="20200901010000 -0300" channel="ESPN1  HD">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
   </programme>
-  <programme start="20200830190000 -0300" stop="20200830193000 -0300" channel="ESPN1  HD">
-    <title lang="pt">NBA Action</title>
+  <programme start="20200831200000 -0300" stop="20200901010000 -0300" channel="ESPN1  SD">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
   </programme>
-  <programme start="20200830193000 -0300" stop="20200830203000 -0300" channel="ESPN1  HD">
-    <title lang="pt">ESPN Filmes: Son Of The Congo</title>
+  <programme start="20200831193000 -0300" stop="20200831223000 -0300" channel="ESPN2  HD">
+    <title lang="pt">MLB: St. Louis Cardinals x Cincinnati Reds - Ao Vivo</title>
   </programme>
-  <programme start="20200830203000 -0300" stop="20200830213000 -0300" channel="ESPN1  HD">
-    <title lang="pt">ESPN Filmes: 30 For 30: 42 To 1</title>
+  <programme start="20200831223000 -0300" stop="20200901013000 -0300" channel="ESPN2  HD">
+    <title lang="pt">MLB: San Diego Padres x Colorado Rockies - Ao Vivo</title>
   </programme>
-  <programme start="20200830213000 -0300" stop="20200831000000 -0300" channel="ESPN1  HD">
-    <title lang="pt">NBA: Denver Nuggets x Utah Jazz - Ao Vivo</title>
+  <programme start="20200831193000 -0300" stop="20200831223000 -0300" channel="ESPN2  SD">
+    <title lang="pt">MLB: St. Louis Cardinals x Cincinnati Reds - Ao Vivo</title>
   </programme>
-  <programme start="20200830163000 -0300" stop="20200830190000 -0300" channel="ESPN1  SD">
-    <title lang="pt">NBA: LA Clippers x Dallas Mavericks - Ao Vivo</title>
+  <programme start="20200831223000 -0300" stop="20200901013000 -0300" channel="ESPN2  SD">
+    <title lang="pt">MLB: San Diego Padres x Colorado Rockies - Ao Vivo</title>
   </programme>
-  <programme start="20200830190000 -0300" stop="20200830193000 -0300" channel="ESPN1  SD">
-    <title lang="pt">NBA Action</title>
+  <programme start="20200831203000 -0300" stop="20200831220000 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
   </programme>
-  <programme start="20200830193000 -0300" stop="20200830203000 -0300" channel="ESPN1  SD">
-    <title lang="pt">ESPN Filmes: Son Of The Congo</title>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Bom Dia Fox</title>
   </programme>
-  <programme start="20200830203000 -0300" stop="20200830213000 -0300" channel="ESPN1  SD">
-    <title lang="pt">ESPN Filmes: 30 For 30: 42 To 1</title>
+  <programme start="20200831230000 -0300" stop="20200901014500 -0300" channel="FOX SPORTS  DH">
+    <title lang="pt">Fox Sports Rádio</title>
   </programme>
-  <programme start="20200830213000 -0300" stop="20200831000000 -0300" channel="ESPN1  SD">
-    <title lang="pt">NBA: Denver Nuggets x Utah Jazz - Ao Vivo</title>
+  <programme start="20200831203000 -0300" stop="20200831220000 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
   </programme>
-  <programme start="20200830140000 -0300" stop="20200830200000 -0300" channel="ESPN2  HD">
-    <title lang="pt">Golfe: Fedex Cup Playoffs: Bmw Championship - Ao Vivo</title>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Bom Dia Fox</title>
   </programme>
-  <programme start="20200830200000 -0300" stop="20200830230000 -0300" channel="ESPN2  HD">
-    <title lang="pt">MLB: Atlanta Braves x Philadelphia Phillies - Ao Vivo</title>
+  <programme start="20200831230000 -0300" stop="20200901014500 -0300" channel="FOX SPORTS  SD">
+    <title lang="pt">Fox Sports Rádio</title>
   </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="ESPN2  HD">
-    <title lang="pt">ESPN Filmes: 30 For 30: 42 To 1</title>
+  <programme start="20200831210000 -0300" stop="20200901000000 -0300" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE Monday Night Raw - Ao Vivo</title>
   </programme>
-  <programme start="20200830140000 -0300" stop="20200830200000 -0300" channel="ESPN2  SD">
-    <title lang="pt">Golfe: Fedex Cup Playoffs: Bmw Championship - Ao Vivo</title>
+  <programme start="20200831210000 -0300" stop="20200901000000 -0300" channel="FOX SPORTS 2  SD">
+    <title lang="pt">WWE Monday Night Raw - Ao Vivo</title>
   </programme>
-  <programme start="20200830200000 -0300" stop="20200830230000 -0300" channel="ESPN2  SD">
-    <title lang="pt">MLB: Atlanta Braves x Philadelphia Phillies - Ao Vivo</title>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
   </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="ESPN2  SD">
-    <title lang="pt">ESPN Filmes: 30 For 30: 42 To 1</title>
+  <programme start="20200831220000 -0300" stop="20200901003000 -0300" channel="SPORTSTV  HD">
+    <title lang="pt">Bem, Amigos! - Ao Vivo</title>
   </programme>
-  <programme start="20200830174500 -0300" stop="20200830193000 -0300" channel="FOX SPORTS  DH">
-    <title lang="pt">Rodada Fox - Ao Vivo</title>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
   </programme>
-  <programme start="20200830193000 -0300" stop="20200830203000 -0300" channel="FOX SPORTS  DH">
-    <title lang="pt">Aqui Com Benja</title>
+  <programme start="20200831220000 -0300" stop="20200901003000 -0300" channel="SPORTSTV  SD">
+    <title lang="pt">Bem, Amigos! - Ao Vivo</title>
   </programme>
-  <programme start="20200830203000 -0300" stop="20200830230000 -0300" channel="FOX SPORTS  DH">
-    <title lang="pt">A Última Palavra - Ao Vivo</title>
+  <programme start="20200831213000 -0300" stop="20200901000000 -0300" channel="SPORTSTV2  HD">
+    <title lang="pt">NBA - Ao Vivo</title>
   </programme>
-  <programme start="20200830230000 -0300" stop="20200830231500 -0300" channel="FOX SPORTS  DH">
-    <title lang="pt">Filler</title>
+  <programme start="20200831213000 -0300" stop="20200901000000 -0300" channel="SPORTSTV2  SD">
+    <title lang="pt">NBA - Ao Vivo</title>
   </programme>
-  <programme start="20200830231500 -0300" stop="20200831014500 -0300" channel="FOX SPORTS  DH">
-    <title lang="pt">A Última Palavra</title>
+  <programme start="20200831200000 -0300" stop="20200831220000 -0300" channel="SPORTSTV3  HD">
+    <title lang="pt">US Open - Ao Vivo</title>
   </programme>
-  <programme start="20200830174500 -0300" stop="20200830193000 -0300" channel="FOX SPORTS  SD">
-    <title lang="pt">Rodada Fox - Ao Vivo</title>
+  <programme start="20200831220000 -0300" stop="20200901000000 -0300" channel="SPORTSTV3  HD">
+    <title lang="pt">US Open - Ao Vivo</title>
   </programme>
-  <programme start="20200830193000 -0300" stop="20200830203000 -0300" channel="FOX SPORTS  SD">
-    <title lang="pt">Aqui Com Benja</title>
+  <programme start="20200831200000 -0300" stop="20200831220000 -0300" channel="SPORTSTV3  SD">
+    <title lang="pt">US Open - Ao Vivo</title>
   </programme>
-  <programme start="20200830203000 -0300" stop="20200830230000 -0300" channel="FOX SPORTS  SD">
-    <title lang="pt">A Última Palavra - Ao Vivo</title>
+  <programme start="20200831220000 -0300" stop="20200901000000 -0300" channel="SPORTSTV3  SD">
+    <title lang="pt">US Open - Ao Vivo</title>
   </programme>
-  <programme start="20200830230000 -0300" stop="20200830231500 -0300" channel="FOX SPORTS  SD">
-    <title lang="pt">Filler</title>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
   </programme>
-  <programme start="20200830231500 -0300" stop="20200831014500 -0300" channel="FOX SPORTS  SD">
-    <title lang="pt">A Última Palavra</title>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">VT - Oeste x Avaí</title>
   </programme>
-  <programme start="20200830164500 -0300" stop="20200830200000 -0300" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Nascar Cup Séries</title>
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="PREMIE CLUBE HD">
+    <title lang="pt">VT - Guarani x Náutico</title>
   </programme>
-  <programme start="20200830200000 -0300" stop="20200830220000 -0300" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Boxing For You: Esquiva Falcão x Morramad Araujo</title>
+  <programme start="20200831194000 -0300" stop="20200831220000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">Guarani x Oeste - Ao Vivo</title>
   </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Aqui Com Benja</title>
+  <programme start="20200831220000 -0300" stop="20200831230000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">VT - Oeste x Avaí</title>
   </programme>
-  <programme start="20200830230000 -0300" stop="20200831004500 -0300" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT - Málaga x Granada</title>
-  </programme>
-  <programme start="20200830164500 -0300" stop="20200830200000 -0300" channel="FOX SPORTS 2  SD">
-    <title lang="pt">Nascar Cup Séries</title>
-  </programme>
-  <programme start="20200830200000 -0300" stop="20200830220000 -0300" channel="FOX SPORTS 2  SD">
-    <title lang="pt">Boxing For You: Esquiva Falcão x Morramad Araujo</title>
-  </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="FOX SPORTS 2  SD">
-    <title lang="pt">Aqui Com Benja</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831004500 -0300" channel="FOX SPORTS 2  SD">
-    <title lang="pt">VT - Málaga x Granada</title>
-  </programme>
-  <programme start="20200830180000 -0300" stop="20200830203000 -0300" channel="SPORTSTV  HD">
-    <title lang="pt">Troca de Passes - Ao Vivo</title>
-  </programme>
-  <programme start="20200830203000 -0300" stop="20200830210000 -0300" channel="SPORTSTV  HD">
-    <title lang="pt">Boleiragem</title>
-  </programme>
-  <programme start="20200830210000 -0300" stop="20200830220000 -0300" channel="SPORTSTV  HD">
-    <title lang="pt">Giro da Rodada</title>
-  </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="SPORTSTV  HD">
-    <title lang="pt">VT - São Paulo x Corinthians</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="SPORTSTV  HD">
-    <title lang="pt">VT - Grêmio x Caxias</title>
-  </programme>
-  <programme start="20200830180000 -0300" stop="20200830203000 -0300" channel="SPORTSTV  SD ">
-    <title lang="pt">Troca de Passes - Ao Vivo</title>
-  </programme>
-  <programme start="20200830203000 -0300" stop="20200830210000 -0300" channel="SPORTSTV  SD ">
-    <title lang="pt">Boleiragem</title>
-  </programme>
-  <programme start="20200830210000 -0300" stop="20200830220000 -0300" channel="SPORTSTV  SD ">
-    <title lang="pt">Giro da Rodada</title>
-  </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="SPORTSTV  SD ">
-    <title lang="pt">VT - São Paulo x Corinthians</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="SPORTSTV  SD ">
-    <title lang="pt">VT - Grêmio x Caxias</title>
-  </programme>
-  <programme start="20200830180000 -0300" stop="20200830184000 -0300" channel="SPORTSTV2  HD">
-    <title lang="pt">Giro da Rodada</title>
-  </programme>
-  <programme start="20200830184000 -0300" stop="20200830210000 -0300" channel="SPORTSTV2  HD">
-    <title lang="pt">CSA AL x CRB AL - Ao Vivo</title>
-  </programme>
-  <programme start="20200830210000 -0300" stop="20200830230000 -0300" channel="SPORTSTV2  HD">
-    <title lang="pt">Fórmula 1 - GP da Bélgica</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831004000 -0300" channel="SPORTSTV2  HD">
-    <title lang="pt">Liga Mundial de Vôlei: Brasil x Bulgária</title>
-  </programme>
-  <programme start="20200830180000 -0300" stop="20200830184000 -0300" channel="SPORTSTV2  SD">
-    <title lang="pt">Giro da Rodada</title>
-  </programme>
-  <programme start="20200830184000 -0300" stop="20200830210000 -0300" channel="SPORTSTV2  SD">
-    <title lang="pt">CSA AL x CRB AL - Ao Vivo</title>
-  </programme>
-  <programme start="20200830210000 -0300" stop="20200830230000 -0300" channel="SPORTSTV2  SD">
-    <title lang="pt">Fórmula 1 - GP da Bélgica</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831004000 -0300" channel="SPORTSTV2  SD">
-    <title lang="pt">Liga Mundial de Vôlei: Brasil x Bulgária</title>
-  </programme>
-  <programme start="20200830180000 -0300" stop="20200830190000 -0300" channel="SPORTSTV3  HD">
-    <title lang="pt">VT - São Paulo x Corinthians</title>
-  </programme>
-  <programme start="20200830190000 -0300" stop="20200830195000 -0300" channel="SPORTSTV3  HD">
-    <title lang="pt">Faixa Combate: Ufc - Maia x Usman</title>
-  </programme>
-  <programme start="20200830195000 -0300" stop="20200830203000 -0300" channel="SPORTSTV3  HD">
-    <title lang="pt">Faixa Combate: Ufc - Till x Thompson</title>
-  </programme>
-  <programme start="20200830203000 -0300" stop="20200830210500 -0300" channel="SPORTSTV3  HD">
-    <title lang="pt">Faixa Combate: Ufc - Rivera x Moraes</title>
-  </programme>
-  <programme start="20200830210500 -0300" stop="20200830221500 -0300" channel="SPORTSTV3  HD">
-    <title lang="pt">Faixa Combate: Ufc - Whittaker x Romero</title>
-  </programme>
-  <programme start="20200830221500 -0300" stop="20200830234000 -0300" channel="SPORTSTV3  HD">
-    <title lang="pt">Faixa Combate: Ufc - Woodley x Durinho</title>
-  </programme>
-  <programme start="20200830234000 -0300" stop="20200831010000 -0300" channel="SPORTSTV3  HD">
-    <title lang="pt">UFC Fight Night Combate - Eye x Calvillo</title>
-  </programme>
-  <programme start="20200830180000 -0300" stop="20200830190000 -0300" channel="SPORTSTV3  SD">
-    <title lang="pt">VT - São Paulo x Corinthians</title>
-  </programme>
-  <programme start="20200830190000 -0300" stop="20200830195000 -0300" channel="SPORTSTV3  SD">
-    <title lang="pt">Faixa Combate: Ufc - Maia x Usman</title>
-  </programme>
-  <programme start="20200830195000 -0300" stop="20200830203000 -0300" channel="SPORTSTV3  SD">
-    <title lang="pt">Faixa Combate: Ufc - Till x Thompson</title>
-  </programme>
-  <programme start="20200830203000 -0300" stop="20200830210500 -0300" channel="SPORTSTV3  SD">
-    <title lang="pt">Faixa Combate: Ufc - Rivera x Moraes</title>
-  </programme>
-  <programme start="20200830210500 -0300" stop="20200830221500 -0300" channel="SPORTSTV3  SD">
-    <title lang="pt">Faixa Combate: Ufc - Whittaker x Romero</title>
-  </programme>
-  <programme start="20200830221500 -0300" stop="20200830234000 -0300" channel="SPORTSTV3  SD">
-    <title lang="pt">Faixa Combate: Ufc - Woodley x Durinho</title>
-  </programme>
-  <programme start="20200830234000 -0300" stop="20200831010000 -0300" channel="SPORTSTV3  SD">
-    <title lang="pt">UFC Fight Night Combate - Eye x Calvillo</title>
-  </programme>
-  <programme start="20200830180000 -0300" stop="20200830184000 -0300" channel="PREMIE CLUBE HD">
-    <title lang="pt">Giro da Rodada</title>
-  </programme>
-  <programme start="20200830184000 -0300" stop="20200830210000 -0300" channel="PREMIE CLUBE HD">
-    <title lang="pt">Operário PR x Brasil de Pelotas - Ao Vivo</title>
-  </programme>
-  <programme start="20200830210000 -0300" stop="20200830220000 -0300" channel="PREMIE CLUBE HD">
-    <title lang="pt">VT - São Paulo x Corinthians</title>
-  </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="PREMIE CLUBE HD">
-    <title lang="pt">VT - Santos x Flamengo</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="PREMIE CLUBE HD">
-    <title lang="pt">VT - Coritiba x Sport</title>
-  </programme>
-  <programme start="20200830184000 -0300" stop="20200830210000 -0300" channel="PREMIE CLUBE  SD">
-    <title lang="pt">Operário PR x Brasil de Pelotas - Ao Vivo</title>
-  </programme>
-  <programme start="20200830210000 -0300" stop="20200830220000 -0300" channel="PREMIE CLUBE  SD">
-    <title lang="pt">VT - São Paulo x Corinthians</title>
-  </programme>
-  <programme start="20200830220000 -0300" stop="20200830230000 -0300" channel="PREMIE CLUBE  SD">
-    <title lang="pt">VT - Santos x Flamengo</title>
-  </programme>
-  <programme start="20200830230000 -0300" stop="20200831000000 -0300" channel="PREMIE CLUBE  SD">
-    <title lang="pt">VT - Coritiba x Sport</title>
+  <programme start="20200831230000 -0300" stop="20200901000000 -0300" channel="PREMIE CLUBE  SD">
+    <title lang="pt">VT - Guarani x Náutico</title>
   </programme>
 </tv>
